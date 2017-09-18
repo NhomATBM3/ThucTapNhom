@@ -15,7 +15,7 @@ namespace QuanLyKho
         public Form1()
         {
             InitializeComponent();
-            ////Hello
+            
         }
     }
 }
