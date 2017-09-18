@@ -15,6 +15,7 @@ namespace ThucTapNhom
         public Form1()
         {
             InitializeComponent();
+            // hi
         }
     }
 }
