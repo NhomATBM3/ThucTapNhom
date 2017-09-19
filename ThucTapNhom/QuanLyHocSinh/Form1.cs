@@ -8,14 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ThucTapNhom
+namespace QuanLyHocSinh
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-            // hi
+            /// Hello
         }
     }
 }
